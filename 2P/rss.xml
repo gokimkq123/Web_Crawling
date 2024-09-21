@@ -1,0 +1,3012 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>기상청 육상 중기예보</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_06.jsp</link>
+<description>기상청 날씨 웹서비스</description>
+<language>ko</language>
+<generator>기상청</generator>
+<pubDate>2024년 08월 29일 (목)요일 18:00</pubDate>
+ <item>
+<author>기상청</author>
+<category>육상중기예보</category>
+<title>경상남,북도 육상 중기예보 - 2024년 08월 29일 (목)요일 18:00 발표</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_06.jsp</link>
+<guid>http://www.kma.go.kr/weather/forecast/mid-term_06.jsp</guid>
+<description>
+	<header>
+		<title>경상남,북도 육상중기예보</title>
+		<tm>202408291800</tm>
+		<wf><![CDATA[○ (하늘상태) 이번 예보기간 가끔 구름많겠습니다.<br />○ (기온) 이번 예보기간 아침최저기온은 20~25도, 낮최고기온은 31~33도로 평년(최저기온 16~22도, 최고기온 27~29도)보다 높겠습니다.<br />○ (해상, 너울) 2일(월) 오후~3일(화) 남해동부와 동해남부해상에서 물결이 1.0~3.0m로 높게 일겠습니다. <br />                이번 예보기간 동안 동해안에는 너울에 의한 높은 물결이 백사장으로 강하게 밀려오거나, <br />                갯바위나 방파제를 넘는 곳이 있겠으니, 해안가 물놀이 안전사고 등에 유의하기 바랍니다. <br /><br />* 이번 예보기간 동안 최고체감온도가 33도 내외로 올라 더운 날이 있겠습니다.<br />* 또한, 9월 2일(월)~3일(화)은 우리나라 주변 기압계 흐름에 따라 예보가 변경될 가능성이 있겠고, 그 밖의 날은 대기 불안정으로 인한 소나기가 내릴 가능성이 있겠습니다.]]></wf>
+	</header>
+	<body>
+				
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>부산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>울산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>창원</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>25</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>25</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>진주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>거창</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>통영</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>양산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>김해</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>사천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>거제</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>고성</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>남해</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>함양</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>19</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>19</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>19</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>19</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>합천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>19</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>19</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>밀양</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>35</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>의령</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>함안</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>19</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>19</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>19</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>19</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>창녕</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>34</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>19</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>19</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>산청</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>19</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>19</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>19</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>19</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>하동</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-01 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>23</tmn>
+					<tmx>33</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-03 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>20</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2024-09-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2024-09-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+
+	
+
+	</body>
+</description>
+</item>
+</channel>
+</rss>	
